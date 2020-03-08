@@ -1,0 +1,8 @@
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\bin\Debug\Mini Game.exe
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\bin\Debug\Mini Game.pdb
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.Properties.Resources.resources
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csproj.GenerateResource.Cache
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini Game.exe
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini Game.pdb
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csprojResolveAssemblyReference.cache
+D:\Msa\Year 2\semester 2\Multimedia\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.CActor.resources
